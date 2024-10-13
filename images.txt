@@ -1,1 +1,1 @@
---platform linux/arm64 mysql/mysql-server:8.0.32
+johnshine/baidunetdisk-crossover-vnc:4.2
