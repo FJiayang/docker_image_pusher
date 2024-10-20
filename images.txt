@@ -1,1 +1,3 @@
-liuxipo/itvall:latest
+minio/minio:RELEASE.2022-10-02T19-29-29Z.fips
+minio/minio:RELEASE.2022-10-02T19-29-29Z
+minio/minio:RELEASE.2023-11-01T18-37-25Z
