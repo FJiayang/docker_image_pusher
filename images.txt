@@ -1,2 +1,13 @@
-vaultwarden/server:1.32.2
-vaultwarden/server:1.30.3
+metatube/metatube-server:1.2.7
+nyanmisaka/jellyfin:240401-amd64
+dreamacro/clash:v1.18.0
+sanjusss/aliyun-ddns:0.2.7
+mtphotos/mt-photos:1.33.0
+deluan/navidrome:0.53.3
+xhongc/music_tag_web:2.2.6
+lyswhut/lx-music-sync-server:v2.1.2
+nginx:1.18.0
+linuxserver/qbittorrent:amd64-4.5.2
+kodcloud/kodexplorer:v4.50
+snowdreamtech/frpc:0.46.0
+gitea/gitea:1.14.2
