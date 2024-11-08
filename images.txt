@@ -1,1 +1,1 @@
-superng6/qbittorrentee:5.0.0.10
+nvidia/cuda:12.1.0-base-ubuntu22.04
