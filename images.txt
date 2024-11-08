@@ -1,1 +1,1 @@
-nvidia/cuda:12.1.0-base-ubuntu22.04
+docker.io/library/ubuntu:22.04
