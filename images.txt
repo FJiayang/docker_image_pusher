@@ -1,1 +1,1 @@
-docker.io/library/ubuntu:22.04
+lovechen/embyserver:4.7.14.0
