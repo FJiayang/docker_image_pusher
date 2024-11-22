@@ -1,1 +1,1 @@
-joyqi/typecho:nightly-php8.2-fpm-alpine
+joyqi/typecho:nightly-php8.2-apache
