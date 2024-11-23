@@ -1,1 +1,1 @@
-joyqi/typecho:1.2.1-php8.0-apache
+joyqi/typecho:1.2.0-php8.0-apache
