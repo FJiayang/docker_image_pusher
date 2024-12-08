@@ -1,1 +1,2 @@
-lovechen/embyserver:4.7.14.0
+ananwaresystems/webarchive:1.0
+tomcat:7.0
