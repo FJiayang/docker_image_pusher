@@ -1,1 +1,1 @@
-lovechen/embyserver:4.7.14.0
+snowdreamtech/frpc:0.46.0
