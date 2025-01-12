@@ -1,1 +1,1 @@
-gdy666/lucky:2.14.0
+ghcr.io/home-assistant/home-assistant:2025.1.2
