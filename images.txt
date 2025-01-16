@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:2025.1.2
+openvpn/openvpn-as:2.14.1-ff013d4d-Ubuntu22
