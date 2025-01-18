@@ -1,1 +1,1 @@
-ghcr.io/cxfksword/douban-api-rs:latest
+talebook/douban-api-rs:latest
