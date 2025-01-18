@@ -1,1 +1,1 @@
-talebook/douban-api-rs:latest
+johngong/calibre-web:0.6.24-7.9.0
