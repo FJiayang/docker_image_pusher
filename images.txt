@@ -1,1 +1,1 @@
-talebook/talebook:v3.8.4
+ghcr.io/cxfksword/douban-api-rs:latest
