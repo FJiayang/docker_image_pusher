@@ -1,1 +1,1 @@
-flowiseai/flowise:2.2.4
+talebook/talebook:v3.8.4
