@@ -74,6 +74,11 @@ xiaoyaliu/alist
 ```
 ![](doc/镜像重名.png)
 
+#### 支持别名
+格式为 `--alias=custom_image_name`
+--alias=mynginx nginx
+--alias=mynginx nginx:1.26.2-alpine-perl
+
 ### 定时执行
 修改/.github/workflows/docker.yaml文件
 添加 schedule即可定时执行(此处cron使用UTC时区)
