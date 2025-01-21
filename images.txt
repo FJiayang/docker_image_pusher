@@ -1,2 +1,2 @@
-kodcloud/kodexplorer:v4.50
-kodcloud/kodexplorer:4.52
+--alias=vaultwarden_server vaultwarden/server:1.30.3
+--alias=vaultwarden_server vaultwarden/server:1.32.7
