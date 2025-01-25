@@ -1,2 +1,1 @@
---alias=vaultwarden_server vaultwarden/server:1.30.3
---alias=vaultwarden_server vaultwarden/server:1.32.7
+gotson/komga:1.18.0
