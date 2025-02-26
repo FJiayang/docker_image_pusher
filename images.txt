@@ -1,3 +1,1 @@
-#ghcr.io/toeverything/affine-graphql:stable
-
-ghcr.io/open-webui/open-webui:main
+ghcr.io/toeverything/affine-graphql:stable
