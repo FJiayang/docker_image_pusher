@@ -1,1 +1,1 @@
-ghcr.io/toeverything/affine-graphql:stable
+linuxserver/plex:1.32.8
