@@ -1,1 +1,1 @@
-n8nio/n8n:1.87.2
+--platform=linux/arm64 n8nio/n8n:1.87.2
