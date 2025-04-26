@@ -1,1 +1,2 @@
 ghcr.io/toeverything/affine-graphql:stable
+--alias=vaultwarden vaultwarden/server:1.33.2
