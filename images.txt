@@ -1,2 +1,3 @@
 ghcr.io/toeverything/affine-graphql:stable
 --alias=vaultwarden vaultwarden/server
+nacos/nacos-server:3.0.0
