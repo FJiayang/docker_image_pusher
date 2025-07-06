@@ -1,4 +1,4 @@
 ghcr.io/toeverything/affine-graphql:stable
 --alias=vaultwarden vaultwarden/server
-ghcr.io/paperless-ngx/paperless-ngx:2.16
 kodcloud/kodexplorer
+lscr.io/linuxserver/chromium
