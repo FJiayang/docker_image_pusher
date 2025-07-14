@@ -1,4 +1,4 @@
 ghcr.io/toeverything/affine-graphql:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
-kasmweb/chromium:1.17.0
+ghcr.io/astral-sh/uv:python3.10-bookworm
