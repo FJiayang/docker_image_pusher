@@ -1,5 +1,4 @@
-ghcr.io/toeverything/affine-graphql:stable
+ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
-vinlic/deepseek-free-api
-vinlic/qwen-free-api
+ghcr.io/toeverything/affine:0.23.1
