@@ -1,4 +1,4 @@
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
-ghcr.io/toeverything/affine:0.23.0
+lyswhut/any-listen-web-server
