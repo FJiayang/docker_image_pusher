@@ -1,4 +1,4 @@
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
-jupyter/base-notebook:x86_64-python-3.11.6
+gdy666/lucky:2.18.6
