@@ -1,4 +1,4 @@
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
-gdy666/lucky:2.18.6
+ghcr.io/fjiayang/custom-jupyter-notebook
