@@ -1,4 +1,4 @@
-ghcr.io/fjiayang/custom-jupyter-notebook
+codercom/code-server
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
