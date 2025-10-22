@@ -3,4 +3,4 @@ ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
 lscr.io/linuxserver/brave
-linuxserver/plex
+linuxserver/plex:1.42.2
