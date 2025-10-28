@@ -3,4 +3,9 @@ ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
 lscr.io/linuxserver/brave
-postgres:18
+postgres:17
+ghcr.io/warp-tech/warpgate
+docker.io/langfuse/langfuse-worker:3
+docker.io/langfuse/langfuse:3
+docker.io/clickhouse/clickhouse-server:25.8
+redis:7
