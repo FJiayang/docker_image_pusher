@@ -1,3 +1,4 @@
+redis/redis-stack:7.2.0-v19
 ghcr.io/fjiayang/python-code-server
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
