@@ -1,12 +1,7 @@
-redis/redis-stack:7.2.0-v19
+samanhappy/mcphub:0.10.3
 ghcr.io/fjiayang/python-code-server
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
 lscr.io/linuxserver/brave
-postgres:17
 ghcr.io/warp-tech/warpgate
-docker.io/langfuse/langfuse-worker:3
-docker.io/langfuse/langfuse:3
-docker.io/clickhouse/clickhouse-server:25.8
-redis:7
