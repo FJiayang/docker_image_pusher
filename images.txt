@@ -1,4 +1,6 @@
 docker.n8n.io/n8nio/n8n
+ghcr.io/hyoban/puppeteer-real-browser-hono
+browserless/chrome
 ghcr.io/diygod/rsshub
 ghcr.io/fjiayang/python-code-server
 ghcr.io/toeverything/affine:stable
