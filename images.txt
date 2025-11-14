@@ -1,6 +1,6 @@
-samanhappy/mcphub:0.10.3
+docker.n8n.io/n8nio/n8n
+ghcr.io/diygod/rsshub
 ghcr.io/fjiayang/python-code-server
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
---alias=openspeedtest openspeedtest/latest
