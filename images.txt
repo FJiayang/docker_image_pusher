@@ -1,4 +1,5 @@
 docker.n8n.io/n8nio/n8n
+mcphub
 ghcr.io/diygod/rsshub:chromium-bundled
 ghcr.io/fjiayang/python-code-server
 ghcr.io/toeverything/affine:stable
