@@ -1,9 +1,9 @@
 docker.n8n.io/n8nio/n8n
 samanhappy/mcphub
+openlistteam/openlist
 ghcr.io/diygod/rsshub:chromium-bundled
 ghcr.io/fjiayang/python-code-server
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 kodcloud/kodexplorer
-gitea/gitea:1.25.3
 gitea/gitea
