@@ -1,4 +1,4 @@
-ghcr.io/diygod/rsshub:chromium-bundled
+ghcr.io/maybe-finance/mayb
 ghcr.io/fjiayang/python-code-server
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
