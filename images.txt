@@ -1,5 +1,6 @@
-gcr.io/cadvisor/cadvisor
-prom/node-exporter
+ghcr.io/fjiayang/deer-flow-backend:latest
+ghcr.io/fjiayang/deer-flow-frontend:latest
+ghcr.io/fjiayang/deer-flow-provisioner:latest
 ghcr.io/fjiayang/ide-code-server
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
