@@ -1,5 +1,4 @@
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
-gitea/gitea:1.25.5
-gitea/gitea:1.26.4
-gitea/gitea:1.27.1
+ghcr.io/fatedier/frps:v0.71.0
+ghcr.io/fatedier/frpc:v0.71.0
