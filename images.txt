@@ -1,4 +1,4 @@
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
-ghcr.io/fatedier/frps:v0.71.0
-ghcr.io/fatedier/frpc:v0.71.0
+ghcr.io/fjiayang/wealthfolio
+ghcr.io/fjiayang/finance-data-api
