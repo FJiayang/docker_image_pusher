@@ -1,3 +1,4 @@
+openresty/openresty:1.29.2.4-1-alpine
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 ghcr.io/fjiayang/wealthfolio
