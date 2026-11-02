@@ -1,4 +1,4 @@
-ghcr.io/wg-easy/wg-easy:15
+mysql:5.7.29
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
 ghcr.io/fjiayang/wealthfolio
