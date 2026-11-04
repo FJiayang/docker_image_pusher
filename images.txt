@@ -1,6 +1,4 @@
-grafana/alloy:v1.21.2
-grafana/loki:3.7.9
+ghcr.io/fjiayang/wealthfolio
 ghcr.io/toeverything/affine:stable
 --alias=vaultwarden vaultwarden/server
-ghcr.io/fjiayang/wealthfolio
 ghcr.io/warp-tech/warpgate
